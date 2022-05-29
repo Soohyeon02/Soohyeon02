@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Soohyeon%20Hwang&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20github%20profile&descAlignY=51&descAlign=62)
 
-# Welcome to my page!!
+# HI! I'm Soohyeon!!
 
 # ✏ Tech Stack
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
