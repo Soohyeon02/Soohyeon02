@@ -2,7 +2,7 @@
 
 # Hi I'm Soohyeon!!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soohyeon02&show_icons=true&theme=github_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soohyeon02&show_icons=true&theme=graywhite)
 
 # ✏ Tech Stack
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
