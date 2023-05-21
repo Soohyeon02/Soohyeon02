@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=&height=300&section=header&text=Soohyeon%20Hwang&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20github%20profile&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:004FF9&height=300&section=header&text=Soohyeon%20Hwang&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20github%20profile&descAlignY=51&descAlign=62)
 <div align="center">
   
   <h1> 🧑‍💻 Front-End Developer </h1>
