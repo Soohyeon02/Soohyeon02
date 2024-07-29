@@ -14,8 +14,10 @@
   <br>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black" />
-  <h1> 🔥 Activity </h1>
   
+  <!--
+  <h1> 🔥 Activity </h1>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soohyeon02&show_icons=true&theme=graywhite)
+  -->
 
 </div>
