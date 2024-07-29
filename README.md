@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:004FF9&height=300&section=header&text=Soohyeon%20Hwang&fontSize=90&fontColor=DDDDDD&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20github%20profile&descAlignY=51&descAlign=62)
 <div align="center">
   
-  <h1> 🧑‍💻 Front-End Developer </h1>
+  <h1> 💻 Front-End Developer 💻 </h1>
 
   <h1> 🔨 Skills </h1>
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white" />
