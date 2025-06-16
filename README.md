@@ -2,7 +2,7 @@
 <div align="center">
   
   <h1> 💻 Front-End Developer </h1>
-  <h3>주요 기술</h3>
+  <h3>Tech Stack</h3>
   Vue, React
   <br />
   Vite, Vitest, Pinia, Tanstack Query, Tailwind
