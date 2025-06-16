@@ -3,14 +3,11 @@
   
   <h1> 💻 Front-End Developer </h1>
   <h3>주요 기술</h3>
-  Vue.js, React
+  Vue, React
   <br />
-  Vite, Vitest, Pinia
+  Vite, Vitest, Pinia, Tanstack Query, Tailwind
   <br />
   JavaScript, TypeScript
-  <br />
-  <h3>서브 기술</h3>
-  C, Java
   
   <!--
   <h1> 🔥 Activity </h1>
