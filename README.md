@@ -8,6 +8,8 @@
   Vite, Vitest, Pinia, Tanstack Query, Tailwind
   <br />
   JavaScript, TypeScript
+  <br />
+  NestJS, Prisma
   
   <!--
   <h1> 🔥 Activity </h1>
